@@ -13,3 +13,7 @@ This is my very first HTML project, I studied some philosophy at the uni, so I t
 I haven't learned CSS yet, so its not much to look at.
 
 I also wanted to practice markdown and how git commit works, this is why I uploaded this project here.
+
+## 24.08.09 UPDATE
+
+CSS added into the HTML code.
